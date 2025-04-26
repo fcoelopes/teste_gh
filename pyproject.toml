@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "teste-gh"
+version = "0.1.0"
+description = ""
+authors = ["Francisco Edson Lopes da Silva <fco.edson.lopes@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
